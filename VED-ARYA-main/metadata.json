@@ -1,0 +1,8 @@
+{
+  "name": "Vitality Hub - Wellness Coach Companion",
+  "description": "A comprehensive wellness center application for tracking body parameters, membership, social engagement, and recorded coaching sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
